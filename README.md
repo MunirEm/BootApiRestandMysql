@@ -20,8 +20,11 @@ Este proyecto es una API REST básica desarrollada con **Spring Boot** que permi
 
 api_rest/
 ├── Usuario.java # Entidad JPA
+
 ├── UsuarioRepository.java # Interfaz JPARepository
+
 ├── UsuarioService.java # Lógica de negocio
+
 └── UsuarioController.java # Controlador REST
 
 
