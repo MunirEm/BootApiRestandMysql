@@ -19,6 +19,7 @@ Este proyecto es una API REST básica desarrollada con **Spring Boot** que permi
 ## 📦 Estructura del proyecto
 
 api_rest/
+
 ├── Usuario.java # Entidad JPA
 
 ├── UsuarioRepository.java # Interfaz JPARepository
