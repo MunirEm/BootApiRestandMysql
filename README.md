@@ -43,7 +43,7 @@ spring.datasource.password=springpass
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
-Asegúrate de tener la base de datos springdb creada en MySQL y que el usuario tenga permisos.
+
 
 📮 Endpoints disponibles
 ✅ Obtener todos los usuarios
